@@ -17,7 +17,7 @@ plot(X(pos,1),X(pos,2),'k+','LineWidth',2,'MarkerSize',7);
 plot(X(neg,1),X(neg,2),'ko','MarkerFaceColor','y','MarkerSize',7);
 
 %说明：pos的作用是在y中找出所有值为1的位置，对应neg值为0
-#接下来plot分别对pos中所有位置的X和neg位置的X画点，形成一张散点图
+%接下来plot分别对pos中所有位置的X和neg位置的X画点，形成一张散点图
 
 
 
